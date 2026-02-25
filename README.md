@@ -1,5 +1,5 @@
 # 💫 About Me:
-someone who is meant to be a developer but has no clue what he is doing most of the time<br><br>I do infrastrcutre securty and fullstack java and javascript 擇嚸伵摷骠肹诔 <br><br>
+someone who is meant to be a developer but has no clue what he is doing most of the time<br><br>I do infrastrcutre security and fullstack java and javascript 擇嚸伵摷骠肹诔 <br><br>
 
 
 ## 🌐 Socials:
