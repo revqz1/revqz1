@@ -13,4 +13,4 @@
 
 ### 👨‍💻 About Me
 
-I am a **Systems Engineer** and **Full-Stack Developer** focused on building high-performance infrastructure and automated tooling. I specialize in bridging the gap between complex backend systems and user-friendly applications.
+Hi, I do SecOps, DevOps and Fullstack java development! Excited to have you hear ❤️
