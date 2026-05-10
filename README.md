@@ -2,21 +2,65 @@
   <img src="revqz.svg" alt="revqz header" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/javarev1"><img src="https://img.shields.io/github/followers/micheal-cc?label=Follow&style=for-the-badge&color=24292e&logo=github" alt="GitHub"></a>
-  <a href="mailto:revqz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0078D7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="discord.gg/revqz"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://revqz.me"><img src="https://img.shields.io/badge/Website-revqz.me-0ab9ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-</div>
+<br/>
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Javarev1/Javarev1/main/pfp.png" width="120" style="border-radius:50%"/>
+</p>
 
-### 👨‍💻 About Me
+<h1 align="center">👋 heyo! i'm rev!</h1>
 
-Hi, I do SecOps, DevOps and Fullstack java development! Excited to have you here ❤️
+<p align="center">
+  SecOps ~ DevOps ~ Full-Stack Java Dev
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Javarev1&theme=dark)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javarev1&layout=compact&theme=dark)
+<p align="center">
+  <a href="https://discord.gg/revqz">discord</a> ~
+  <a href="https://revqz.me">website</a> ~
+  <a href="mailto:revqz.dev@gmail.com">email</a>
+</p>
+
+---
+
+<table align="center">
+<tr>
+<td width="300">
+  <img src="https://raw.githubusercontent.com/Javarev1/Javarev1/main/pfp.png" width="300"/>
+</td>
+<td>
+
+**i break things that weren't broken before** 💀
+
+Hi! I do SecOps, DevOps and Fullstack Java development.
+
+🔧 Currently working on: _something cool_
+📍 England, London
+🕐 UTC+1
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Javarev1&theme=dark)](https://git.io/streak-stats)
+
+![Javarev1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javarev1&show_icons=true&theme=dark&count_private=true)
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lang-Java-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-SecOps-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-DevOps-green?style=flat-square"/>
+</p>
 
 <div align="center">
   <img src="lower.svg" alt="footer line" width="100%" />
-</div
+</div>
