@@ -15,7 +15,7 @@
 
 Hi, I do SecOps, DevOps and Fullstack java development! Excited to have you here ❤️
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Javarev1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Javarev1&theme=dark)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javarev1&layout=compact&theme=dark)
 
 <div align="center">
   <img src="lower.svg" alt="footer line" width="100%" />
