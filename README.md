@@ -20,30 +20,13 @@
   <a href="mailto:revqz.dev@gmail.com">email</a>
 </p>
 
----
-
-<table align="center">
-<tr>
-<td width="300">
-  <img src="https://raw.githubusercontent.com/Javarev1/Javarev1/main/pfp.png" width="300"/>
-</td>
-<td>
-
-**i break things that weren't broken before** 💀
+**i break things that weren't broken before** 
 
 Hi! I do SecOps, DevOps and Fullstack Java development.
 
 🔧 Currently working on: _something cool_
 📍 England, London
 🕐 UTC+1
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Javarev1&theme=dark)](https://git.io/streak-stats)
 
