@@ -24,25 +24,9 @@
 
 Hi! I do SecOps, DevOps and Fullstack Java development.
 
-🔧 Currently working on: _something cool_
-📍 England, London
-🕐 UTC+1
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Javarev1&theme=dark)](https://git.io/streak-stats)
 
-![Javarev1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javarev1&show_icons=true&theme=dark&count_private=true)
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Lang-Java-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-SecOps-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-DevOps-green?style=flat-square"/>
-</p>
 
 <div align="center">
   <img src="lower.svg" alt="footer line" width="100%" />
