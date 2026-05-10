@@ -15,7 +15,7 @@
 
 Hi, I do SecOps, DevOps and Fullstack java development! Excited to have you here ❤️
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Javarev1&theme=dark)](https://git.io/streak-stats) [![Javarev1's GitHub stats](https://github-stats.ladeira.eu/?username=Javarev1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Javarev1&theme=dark)](https://git.io/streak-stats)   [![Javarev1's GitHub stats](https://github-stats.ladeira.eu/?username=Javarev1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="lower.svg" alt="footer line" width="100%" />
