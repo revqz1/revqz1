@@ -39,7 +39,7 @@
 <h1 className="spacer"></h1>
 
 <div align=center >
-  <img src="https://komarev.com/ghpvc/?username=javarev1" alt="Javarev1 Profile View Counter"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue" alt="https://en.wikipedia.org/wiki/Windows"> <img src="https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat-square&logo=jetbrains&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/Setup-YML-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="YML"> <img src="https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="DotFiles"> <img src="https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=white" alt="Homo Sapiens"> 
+  <img src="https://komarev.com/ghpvc/?username=javarev1" alt="Javarev1 Profile View Counter"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue" alt="https://en.wikipedia.org/wiki/Windows"> <img src="https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat-square&logo=jetbrains&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/Setup-YML-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="YML"> <img src="https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="DotFiles">
 </div>
 
 <p align="center">
