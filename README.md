@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk0cHV0dm1lNGl0emt5NmF1ZmF2ZHhwYXM1am1jMHBrNGQ4cWtyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" alt="math" width="120" height="120">
   <h1>
-    👋 heyo! i'm jos!
+    👋 heyo! i'm rev!
   </h1>
 </div>
 
