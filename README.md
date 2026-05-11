@@ -20,7 +20,7 @@
     <div align="center">
       <p>
         <br />
-        17 ~ devops & software engineer ~ 🍪
+        17 ~ devops & software engineer ~ 🍓
         <br />
         <a href="https://discord.com/users/784055319550623774/">discord</a> ~ 
         <a href="https://revqz.me/">personal site</a> ~
