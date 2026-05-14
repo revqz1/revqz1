@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  Opinions are my own and are not related to any brand.
+  Opinions are my own and are not related to any brand
 </p>
 <div align="center">
   <img src="lower.svg" alt="footer line" width="100%" />
