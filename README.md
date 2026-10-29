@@ -12,7 +12,7 @@
       i do networking, sys admin & bukkit development
       <br>
       <br>
-      working on a few new|unique|amazing|touching|insane things
+      working on some cool thing
       <br>
       <br>
       website: 
